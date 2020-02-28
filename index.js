@@ -28,9 +28,8 @@ var iLoveTheBeatles = num => {
   do {
     arr.push('I love the Beatles!');
     num++;
-  } 
+  }
   while (num < 15);
 
   return arr;
 }
-
